@@ -5,4 +5,5 @@
 * How to run :
       - extract the .zip file
       - Open Folder via VS Code
-      - Run the "hepsiburada" test case via Test Explorer     
+      - Run the "hepsiburada" test case via Test Explorer
+      -includes video record of successful test 
